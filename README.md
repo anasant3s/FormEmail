@@ -1,6 +1,6 @@
 # Formulário de Cadastro
 
-O formulário de cadastro foi desenvolvido com os conteúdos aprendidos em aula. A funcionalidade do formulário está por meio de uma API, onde ao usuário preencher os campos eles serão enviados ao email fornecido no código. Para maior estilização foi desenvolvida uma página de agradecimento ao usuário enviar os dados.
+O formulário de cadastro foi desenvolvido com os conteúdos aprendidos em aula. A funcionalidade do formulário está por meio de uma API, onde ao usuário preencher os campos eles serão enviados ao email fornecido no código. Para maior estilização foi desenvolvida uma página de agradecimento ao usuário ao fazer o envio dos dados.
 
 
 ## Funcionalidade
